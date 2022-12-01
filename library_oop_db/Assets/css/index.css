@@ -1,0 +1,16 @@
+.grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.btn-holder{
+    text-align: center;
+}
+
+.right{
+    margin-left: 10px;
+}
+
+.insert{
+    padding: 10px 18rem;
+}
